@@ -1,0 +1,16 @@
+composer installation -> https://getcomposer.org/
+
+tutoriel laravel -> https://cours.brosseau.ovh/tp/laravel/introduction.html
+
+
+
+
+composer --version
+
+composer create-project laravel/laravel .
+
+cp .env.example .env 
+
+php artisan key:generate
+
+php artisan serve  
